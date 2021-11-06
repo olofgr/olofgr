@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olofgr
 - 👀 I’m interested in coding and web development !
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML, CSS and javascript !
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
